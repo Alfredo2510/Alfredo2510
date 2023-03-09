@@ -30,6 +30,7 @@ Desarrollo de aplicaciones web para la Secretaría de Educación del estado aume
 | mkdir  | Crear una carpeta                                    |
 | cl     | Limpiar la terminal                                  |
 | uptime | Muestra la hora actual                               |
+| touch  | Crear un nuevo archivo                               |
 ***
 ### Alias más utilizados
 ```bash
