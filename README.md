@@ -16,7 +16,7 @@ Desarrollo de aplicaciones web para la Secretaría de Educación del estado aume
 * Redacción y diseño de documentación.
 * Diseño web.
 * Adobe xd y Photoshop.
-
+<!--
 ***
 ### Comandos más utilizados
 | nombre | descripción                                          |
@@ -39,7 +39,7 @@ alias cl='clear'
 ```bash
 alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c | sort -nr | head -n 10'
 ```
-<!--
+
 **Alfredo2510/Alfredo2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
