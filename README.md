@@ -14,7 +14,7 @@ Desarrollo de aplicaciones web para la Secretaría de Educación del estado aume
 * Atención a los detalles.
 * Elaboración de tablas dinamicas en Excel, reportes y estadisticas.
 * Redacción y diseño de documentación.
-* Creatividad.
+* Diseño web.
 * Adobe xd y Photoshop.
 
 ***
