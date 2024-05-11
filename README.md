@@ -1,5 +1,5 @@
-# Hola, soy Freddi Villegas 
-## Desarrollador Web
+# Hola, soy Fredi 👋 
+## Soy programador Web
 Ingeniero en Software con + 2 años de experiencia en desarrollo web. Enfocado en crear y mantener sistemas centrados en una arquitectura escalable con métodos de ingeniería ágiles y buenas prácticas.
 Entusiasta en llevar a cabo proyectos desde su análisis hasta la implementación.
 
